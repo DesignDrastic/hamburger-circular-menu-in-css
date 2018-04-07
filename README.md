@@ -1,4 +1,4 @@
-# hamburger-circular-menu-in-css
+# Hamburger Icon -> Circular Menu In CSS
 Hemburger Circluar Menu in CSS
 
 <a href="https://designdrastic.com/snippet/hamburger-circular-menu-in-css"><strong>View Post</strong></a>
